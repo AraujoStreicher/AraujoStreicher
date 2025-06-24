@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Computer Science Student - Ufscar</p>
+<p align="left">📚 Computer Science Student @ Ufscar</p>
 
 ###
 
