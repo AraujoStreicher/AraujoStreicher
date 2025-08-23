@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I work with</h2>
 
 ###
 
@@ -46,3 +46,4 @@
 <img src="https://raw.githubusercontent.com/AraujoStreicher/AraujoStreicher/output/snake.svg" alt="Snake animation" />
 
 ###
+
