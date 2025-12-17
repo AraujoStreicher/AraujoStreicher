@@ -46,7 +46,7 @@
 
 ---
 
-### 🐍 Snake Game Contribution
 <p align="center">
   <img src="https://raw.githubusercontent.com/AraujoStreicher/AraujoStreicher/output/snake.svg" alt="Snake animation" width="80%" />
 </p>
+
